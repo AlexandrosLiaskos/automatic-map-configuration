@@ -15,6 +15,8 @@ authors:
 license: AGPL-3.0-only
 repository-code: "https://github.com/AlexandrosLiaskos/automatic-map-configuration"
 version: 0.1.0
+doi: 10.5281/zenodo.24467041
+date-released: 2026-11-23
 keywords:
   - web mapping
   - cartography

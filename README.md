@@ -1,5 +1,10 @@
 # Automatic Map Configuration from Attribute Profiles
 
+[![Checks](https://github.com/AlexandrosLiaskos/automatic-map-configuration/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexandrosLiaskos/automatic-map-configuration/actions/workflows/ci.yml)
+[![PyPI](https://img.shields.io/pypi/v/automatic-map-configuration.svg)](https://pypi.org/project/automatic-map-configuration/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24467041.svg)](https://doi.org/10.5281/zenodo.24467041)
+[![Licence: AGPL-3.0](https://img.shields.io/badge/licence-AGPL--3.0-blue.svg)](LICENSE)
+
 When a research dataset is turned into a web map, someone has to decide which column gives the title of each record,
 which column colours the map, which columns visitors can filter by, which deserve a chart, and which are shown when a
 record is opened. This library proposes those decisions from the columns of the dataset, so that a new map starts from
@@ -103,8 +108,11 @@ independent of it, and they now also read headers in Greek and detect a record n
 
 ## Citation
 
-The citation of the software is given in [CITATION.cff](CITATION.cff). Each release is archived on Zenodo with its own
-DOI.
+Liaskos, A. (2026). _Automatic Map Configuration from Attribute Profiles_ (Version 0.1.0) [Computer software]. Zenodo.
+https://doi.org/10.5281/zenodo.24467041
+
+The citation is also given in [CITATION.cff](CITATION.cff), which GitHub offers under "Cite this repository". Each
+release is archived on Zenodo with its own DOI.
 
 ## Licence
 
