@@ -1,0 +1,14 @@
+{
+  "title": "Automatic Map Configuration from Attribute Profiles",
+  "upload_type": "software",
+  "description": "<p>A Python library that proposes the first configuration of a web map of a research dataset from the profiles of its columns: the column that gives the title of each record, the field of the colours, the filters, the charts, the fields shown for a record and clustering. It computes the profiles from plain records and reads column names and headers in English and Greek.</p>",
+  "creators": [
+    {
+      "name": "Liaskos, Alexandros",
+      "affiliation": "National and Kapodistrian University of Athens",
+      "orcid": "0009-0003-0568-945X"
+    }
+  ],
+  "license": "AGPL-3.0-only",
+  "keywords": ["web mapping", "cartography", "data profiling", "thematic mapping", "GIS"]
+}

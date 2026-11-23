@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Automatic Map Configuration from Attribute Profiles"
+abstract: >-
+  A Python library that proposes the first configuration of a web map of a research dataset from the profiles of its
+  columns: the column that gives the title of each record, the field of the colours, the filters, the charts, the
+  fields shown for a record and clustering. It computes the profiles from plain records and reads column names and
+  headers in English and Greek.
+authors:
+  - family-names: Liaskos
+    given-names: Alexandros
+    affiliation: "National and Kapodistrian University of Athens"
+    orcid: "https://orcid.org/0009-0003-0568-945X"
+license: AGPL-3.0-only
+repository-code: "https://github.com/AlexandrosLiaskos/automatic-map-configuration"
+version: 0.1.0
+keywords:
+  - web mapping
+  - cartography
+  - data profiling
+  - thematic mapping
+  - GIS
